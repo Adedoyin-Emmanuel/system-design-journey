@@ -134,8 +134,8 @@
             <mxPoint x="19" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ztd2JTHGe5PYu3k7T6B9-1" value="Hit / Views System Design" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="84" y="-400" width="246" height="80" as="geometry" />
+        <mxCell id="Ztd2JTHGe5PYu3k7T6B9-1" value="Hit / Views Counter System Design" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-400" width="356" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
